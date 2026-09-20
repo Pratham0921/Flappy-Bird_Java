@@ -20,4 +20,6 @@ A simple 2D Flappy Bird-style game built using **Java Programming".
 Key	Action
 SPACE	Make the bird jump
 SPACE	Restart / interact depending on game state
-<img width="451" height="837" alt="image" src="https://github.com/user-attachments/assets/787f20a5-4e5f-4550-b5b6-a8a56c1a7038" />
+
+<img width="451" height="837" alt="Screenshot 2026-09-20 172932" src="https://github.com/user-attachments/assets/768e3841-832b-4412-8601-ce3024fd55f3" />
+
